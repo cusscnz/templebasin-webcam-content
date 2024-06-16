@@ -1,0 +1,3 @@
+cam1
+dir.txt
+testpics
