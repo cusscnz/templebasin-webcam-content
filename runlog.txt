@@ -1,0 +1,4 @@
+Temple Basin webcam script
+Version v0.13
+HEAD is now at 3067bbb update webcam
+Already up to date.
