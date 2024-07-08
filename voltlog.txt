@@ -1,0 +1,73 @@
+[   11.474682] Bluetooth: hci0: BCM: features 0x2e
+[   11.481637] Bluetooth: hci0: BCM43438A1 37.4MHz Raspberry Pi 3-0141
+[   11.481689] Bluetooth: hci0: BCM43430A1 (001.002.009) build 0508
+[   11.582722] hwmon hwmon1: Undervoltage detected!
+[   12.455943] Adding 204796k swap on /var/swap.  Priority:-2 extents:1 across:204796k SS
+[   13.637626] Bluetooth: BNEP (Ethernet Emulation) ver 1.3
+[   13.637667] Bluetooth: BNEP filters: protocol multicast
+--
+[   27.472133] Bluetooth: RFCOMM TTY layer initialized
+[   27.472208] Bluetooth: RFCOMM socket layer initialized
+[   27.472256] Bluetooth: RFCOMM ver 1.11
+[   39.806476] hwmon hwmon1: Voltage normalised
+[   41.822525] hwmon hwmon1: Undervoltage detected!
+[   49.886495] hwmon hwmon1: Voltage normalised
+[   51.902472] hwmon hwmon1: Undervoltage detected!
+[   59.966474] hwmon hwmon1: Voltage normalised
+[   61.982480] hwmon hwmon1: Undervoltage detected!
+[   80.126246] hwmon hwmon1: Voltage normalised
+[   82.142177] hwmon hwmon1: Undervoltage detected!
+[   98.269887] hwmon hwmon1: Voltage normalised
+[  100.285869] hwmon hwmon1: Undervoltage detected!
+[  108.349812] hwmon hwmon1: Voltage normalised
+[  134.557748] hwmon hwmon1: Undervoltage detected!
+[  140.605763] hwmon hwmon1: Voltage normalised
+[  142.621663] hwmon hwmon1: Undervoltage detected!
+[  158.749401] hwmon hwmon1: Voltage normalised
+[  160.765392] hwmon hwmon1: Undervoltage detected!
+[  164.797344] hwmon hwmon1: Voltage normalised
+[  166.813324] hwmon hwmon1: Undervoltage detected!
+[  174.877250] hwmon hwmon1: Voltage normalised
+[  176.893243] hwmon hwmon1: Undervoltage detected!
+[  180.925189] hwmon hwmon1: Voltage normalised
+[  182.941189] hwmon hwmon1: Undervoltage detected!
+[  186.973153] hwmon hwmon1: Voltage normalised
+[  188.989149] hwmon hwmon1: Undervoltage detected!
+[  193.021131] hwmon hwmon1: Voltage normalised
+[  195.041137] hwmon hwmon1: Undervoltage detected!
+[  199.069092] hwmon hwmon1: Voltage normalised
+[  201.085073] hwmon hwmon1: Undervoltage detected!
+[  205.117040] hwmon hwmon1: Voltage normalised
+[  207.137076] hwmon hwmon1: Undervoltage detected!
+[  219.228985] hwmon hwmon1: Voltage normalised
+[  221.245010] hwmon hwmon1: Undervoltage detected!
+[  225.276981] hwmon hwmon1: Voltage normalised
+[  227.292987] hwmon hwmon1: Undervoltage detected!
+[  231.324959] hwmon hwmon1: Voltage normalised
+[  233.340985] hwmon hwmon1: Undervoltage detected!
+[  237.373029] hwmon hwmon1: Voltage normalised
+[  239.388930] hwmon hwmon1: Undervoltage detected!
+[  243.420932] hwmon hwmon1: Voltage normalised
+[  245.436932] hwmon hwmon1: Undervoltage detected!
+[  251.484910] hwmon hwmon1: Voltage normalised
+[  253.504916] hwmon hwmon1: Undervoltage detected!
+[  261.564874] hwmon hwmon1: Voltage normalised
+[  263.580875] hwmon hwmon1: Undervoltage detected!
+[  277.692844] hwmon hwmon1: Voltage normalised
+[  279.708845] hwmon hwmon1: Undervoltage detected!
+[  287.772806] hwmon hwmon1: Voltage normalised
+[  289.788816] hwmon hwmon1: Undervoltage detected!
+[  297.852799] hwmon hwmon1: Voltage normalised
+[  299.868788] hwmon hwmon1: Undervoltage detected!
+[  303.900759] hwmon hwmon1: Voltage normalised
+[  305.916781] hwmon hwmon1: Undervoltage detected!
+[  309.948763] hwmon hwmon1: Voltage normalised
+[  311.964743] hwmon hwmon1: Undervoltage detected!
+[  320.028741] hwmon hwmon1: Voltage normalised
+[  322.044733] hwmon hwmon1: Undervoltage detected!
+[  348.252673] hwmon hwmon1: Voltage normalised
+[  352.284669] hwmon hwmon1: Undervoltage detected!
+[  360.348660] hwmon hwmon1: Voltage normalised
+[  362.364623] hwmon hwmon1: Undervoltage detected!
+[  366.396624] hwmon hwmon1: Voltage normalised
+[  368.412621] hwmon hwmon1: Undervoltage detected!
