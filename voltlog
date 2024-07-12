@@ -10,3 +10,5 @@
 [Fri Jul 12 11:56:17 2024] brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
 [Fri Jul 12 11:56:26 2024] usb 1-1.4: reset high-speed USB device number 4 using dwc_otg
 [Fri Jul 12 11:56:31 2024] hwmon hwmon1: Voltage normalised
+[Fri Jul 12 12:00:19 2024] hwmon hwmon1: Undervoltage detected!
+[Fri Jul 12 12:00:23 2024] hwmon hwmon1: Voltage normalised
