@@ -12,3 +12,7 @@
 [Fri Jul 12 11:56:31 2024] hwmon hwmon1: Voltage normalised
 [Fri Jul 12 12:00:19 2024] hwmon hwmon1: Undervoltage detected!
 [Fri Jul 12 12:00:23 2024] hwmon hwmon1: Voltage normalised
+[Fri Jul 12 12:15:02 2024] hwmon hwmon1: Undervoltage detected!
+[Fri Jul 12 12:15:08 2024] hwmon hwmon1: Voltage normalised
+[Fri Jul 12 12:15:18 2024] hwmon hwmon1: Undervoltage detected!
+[Fri Jul 12 12:15:22 2024] hwmon hwmon1: Voltage normalised
