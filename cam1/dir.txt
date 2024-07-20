@@ -1,3 +1,1 @@
-20240715_144508.jpg
 dir.txt
-latest.jpg
