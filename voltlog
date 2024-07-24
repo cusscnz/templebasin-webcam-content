@@ -1,0 +1,5 @@
+[Thu Jul 25 11:00:11 2024] uvcvideo 1-1.4:1.1: Failed to set UVC probe control : -71 (exp. 26).
+[Thu Jul 25 11:00:11 2024] uvcvideo 1-1.4:1.1: Failed to set UVC probe control : -71 (exp. 26).
+[Thu Jul 25 11:00:11 2024] uvcvideo 1-1.4:1.1: Failed to set UVC probe control : -71 (exp. 26).
+[Thu Jul 25 11:02:35 2024] hwmon hwmon1: Undervoltage detected!
+[Thu Jul 25 11:02:41 2024] hwmon hwmon1: Voltage normalised
