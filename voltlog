@@ -1,8 +1,0 @@
-[Thu Jul 25 11:00:11 2024] uvcvideo 1-1.4:1.1: Failed to set UVC probe control : -71 (exp. 26).
-[Thu Jul 25 11:00:11 2024] uvcvideo 1-1.4:1.1: Failed to set UVC probe control : -71 (exp. 26).
-[Thu Jul 25 11:00:11 2024] uvcvideo 1-1.4:1.1: Failed to set UVC probe control : -71 (exp. 26).
-[Thu Jul 25 11:02:35 2024] hwmon hwmon1: Undervoltage detected!
-[Thu Jul 25 11:02:41 2024] hwmon hwmon1: Voltage normalised
-[Thu Jul 25 11:15:11 2024] usb 1-1.4: Failed to query (SET_CUR) UVC control 5 on unit 2: -71 (exp. 1).
-[Thu Jul 25 11:15:11 2024] uvcvideo 1-1.4:1.1: Failed to set UVC probe control : -71 (exp. 26).
-[Thu Jul 25 11:15:11 2024] uvcvideo 1-1.4:1.1: Failed to set UVC probe control : -71 (exp. 26).
